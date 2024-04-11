@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there this is Sanket Dadali.<br>I am currently pursuing my B.E from AISSMS College of Engineering Pune.<br>I am currently learning MERN Stack Development.
+Hey there this is Sanket Dadali.<br>I am currently pursuing my B.E from AISSMS College of Engineering Pune.<br>I am currently learning MERN Stack Development.<br>
 My PortFolio https://sanketportfolio.vercel.app/
 
 
