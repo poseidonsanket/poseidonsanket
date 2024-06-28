@@ -1,5 +1,15 @@
+<h1 align='center'>
+ 📍 Currently based in Pune, India
+</h1>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+### Hey there :wave:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sanket+Dadali)](https://git.io/typing-svg)
+###### Glad to see you here :heart:
+
+
 # 💫 About Me:
-Hey there this is Sanket Dadali.<br>I am currently pursuing my B.E from AISSMS College of Engineering Pune.<br>I am currently learning MERN Stack Development.<br>
+<br>I am currently pursuing my B.E from AISSMS College of Engineering Pune.<br>I am currently learning MERN Stack Development.<br>
 My PortFolio https://sanketportfolio.vercel.app/
 
 
