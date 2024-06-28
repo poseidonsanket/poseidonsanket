@@ -1,7 +1,7 @@
 <h1 align='center'>
  📍 Currently based in Pune, India
 </h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" height="225px">
 
 ### Hey there :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sanket+Dadali)](https://git.io/typing-svg)
